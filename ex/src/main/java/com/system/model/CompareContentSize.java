@@ -8,3 +8,4 @@ public class CompareContentSize implements ComparisonStrategy {
         return oldContent.length() == newContent.length();
     }
 }
+
